@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+//¿È¿È
 void mybubblesort(vector<int>& arr, int n) {
 	bool flag;
 	for (int P = n - 1; P > 0; P--) {
